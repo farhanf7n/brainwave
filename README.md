@@ -1,8 +1,31 @@
-# React + Vite
+# Brainwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Modern AI website with sleek parallax effects and bento box layouts. Made using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+![](./src/assets/Thumbnail.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone git@github.com:farhanf7n/brainwave.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+
+## Contributing
+
+If you have a suggestion that would make this project better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
