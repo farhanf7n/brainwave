@@ -14,8 +14,11 @@
    ```sh
    npm install
    ```
-
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+3. Run the project
+   ```sh
+   npm run dev
+   ```
+   <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## Contributing
 
